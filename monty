@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include "monty.h"
+
+/**
+*file - will contain the monty byte codes
+*error- will be printed if user does not give more than argument
+*
+
+int main(void)
+{
+	int file = 10
+	if (file >= 30)
+	{
+
+		printf("USAGE: monty file\n")
+
+		
+			return(EXIT_FAILURE)
+			}
+
+}
+	else (file == 10) {
+	printf("Error:can't open file <file>\n")
+
+	return(EXIT_FAILURE)
+}
+	if (file || 10)
+{
+	printf("L<line_number>:unknown instruction <opcode>\n")
+
+		return(EXIT_FAILURE)
+}
+
+	while ( file > 9) 
+		{
+			malloc(file 1))
+
+			printf("Error: malloc failed\n")
+
+			return(EXIT_FAILURE)
+}			
+		 
+
+
+
+	
